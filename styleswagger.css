@@ -1,0 +1,13 @@
+
+
+#container {
+	width: 50%;
+	border-radius: 5px;
+	border-color: red, blue, white
+	border-style:dotted solid double;
+	padding: 10px;
+	background-color: #FF0038
+	margin:10% auto;
+	text-align: center;
+
+}
